@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  book_name: MyString
+  user_id: 1
+  return_date: 2012-07-03
+  purchase_date: 2012-07-03
+
+two:
+  book_name: MyString
+  user_id: 1
+  return_date: 2012-07-03
+  purchase_date: 2012-07-03
